@@ -12,7 +12,7 @@ baseurl: /blog/
 domain_name: 'http://teodorrupi.com'
 google_analytics: 'UA-63370434-2'
 disqus: true
-disqus_shortname: 'Teodor Rupi'
+disqus_shortname: 'teodorrupi'
 
 # Details for the RSS feed generator
 url:            'http://teodorrupi.com/blog'
