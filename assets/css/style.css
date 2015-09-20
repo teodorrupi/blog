@@ -139,9 +139,9 @@ nav.main-nav a.cta {
 }
 
 #wrapper {
-  max-width: 600px;
+  max-width: 900px;
   margin: 0 auto;
-  padding: 60px 40px 100px 40px;
+  padding: 30px 40px 100px 40px;
 }
 
 #wrapper.home {
@@ -440,7 +440,7 @@ Post List
 }
 
 .post {
-	margin: 80px 0 0 0;
+	margin: 50px 0 0 0;
 }
 
 #post-meta {
