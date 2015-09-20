@@ -1,5 +1,5 @@
 # Blog based on Jekyll 
-@ [Teodor Rupi Blog](htt://teodorrupi.com/blog)
+@ [Teodor Rupi Blog](http://teodorrupi.com/blog)
 
 The blog uses [Cactus](https://github.com/koenbok/Cactus) based theme for Jekyll.
 There have been some modifications on the style, everything else follows the same structure.
