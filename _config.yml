@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 20
 baseurl: /blog/
 domain_name: 'http://teodorrupi.com'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-63370434-2'
 disqus: true
 disqus_shortname: 'Teodor Rupi'
 
