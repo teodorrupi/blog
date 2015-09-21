@@ -17,7 +17,7 @@ disqus_shortname: 'teodorrupiblog'
 # Details for the RSS feed generator
 url:            'http://teodorrupi.com/blog'
 author:         'Teodor Rupi'
-authorTwitter:  'YourTwitterUsername'
+authorTwitter:  'teodorrupi'
 
 permalink:       /:year/:title/
 
