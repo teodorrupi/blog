@@ -28,4 +28,4 @@ Adding Google Analytics and doing some marketing on the side in social networks 
 THe project is scheduled to be ready by the end of this week, then the content creation stage starts. In parallel, marketing must start, which could also be through SEO. Next update will be on the initial styles of the project.
 
 
-[akd-web]:http://teodorrupi.com/blog/2015/alb-ch-proof-of-concept
+[akd-web]:http://teodorrupi.com/blog/2015/alb-ch-it-projects
