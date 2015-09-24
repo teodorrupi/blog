@@ -5,20 +5,20 @@ description: Why and how automation is a must, in parallel to manual testing
 ---
 
 # Automation in Quality Assurance
-Quality Assurance is maybe one of the top departments which needs software automation. The group of people on the development side are always fewer than the people in the user side, hence something developet by a group of people, might go into the hands of millions. Quality Assurance is there to make sure that MOST out of those million people get what the product is required to be like and what to do. BUT there is no million people quality assurance team, who are experts and vigilent enough to make sure the product follows those specifications. **Here is where machines come to the rescue.** Maybe machines will NEVER be as smart as a human, but its sure that a machine has a very high uptime. It never gets distracted or bored from doing the same thing over and over again, it never reduces its quality. BUT machines alone can never fully cover a complex project, the human eye and mind is always needed.
+Quality Assurance is maybe one of the top departments which needs software automation. The group of people on the development side are always fewer than the people in the user side, hence something developet by a group of people, might go into the hands of millions. Quality Assurance is there to make sure that MOST out of those million people get what the product is required to be like and what to do. BUT there is no million people quality assurance team, who are experts and vigilent enough to make sure the product follows those specifications. **Here is where machines come to the rescue.** Maybe machines will never be as smart as a human, but its sure that a machine has a very high uptime. It never gets distracted or bored from doing the same thing over and over again, it never reduces its quality. But machines alone can never fully cover a complex project, the human eye and mind is always needed.
 
 # Desktop Application Testing Automation
 Nowadays most application are becoming part of the web, connected to the cloud, all working through the browser. But since with a web application there are still restrictions which apply due to infrastructure, sometimes its easier for different purposes to have a desktop based application. They are huge, they need to be robust and sometimes they need to be very very reliable.
 
 Two fields in which I have been mostly attracted to from the testing point of view are medicine and finance. Both medical and financial applications, but mostly the medical ones, need to reach a very high level of reliability before they can be rolled out. So testing is a very important part of the work.
 
-What I found out during 2 years part time working at a medical software company was that due to differences in Operating Systems, machine architectures and many other mysteries of a machine, testing that a software did what it was supposed to do was NOT ENOUGH. What had to be tested was :
+What I found out during 2 years part time working at a medical software company was that due to differences in Operating Systems, machine architectures and many other mysteries of a machine, testing that a software did what it was supposed to do was not enough. What had to be tested was :
 
 - Is the software able to do the same thing for millions of times, without having any memory issues, breaking due to bugs?
 - Is the software able to endure being used by a non professional user, who could at any point do actions which were logically not supposed to be done in that order?
 - Is the software able to endure infrastructure problems, used under low CPU and RAM, restarting after an electrical failure?
 
-From the moment you read the list of requirements needed to pass a software as ready for release, you understand that no person or team will be able to use the software a million times just to reach those test conditions. This is the moment where automation is a MUST.
+From the moment you read the list of requirements needed to pass a software as ready for release, you understand that no person or team will be able to use the software a million times just to reach those test conditions. This is the moment where automation is a must.
 
 
 # Web/Mobile Application Testing Automation
@@ -38,7 +38,7 @@ All the above mentioned points are doable by human exploratory testing, which th
 # Tools
 Python was the best tool I have found that can be used in desktop application testing. With a GUI creator, you can easily have a test environemnt where you can control your simulations, in different operating systems with easy. Easy to use, easy to learn and with tons of plugins out there, as well as very lightweight and robust.
 
-For web/mobile testing, there are many tools out there which fit to differnt projects. But as an idea, you could have great luck with using a javascript terminal based testing framework which is lightweight, fast and easy to MAINTAIN. For a robust testing application which is also browser based in parallel, **Selenium** is the closest thing you can get to a perfect multipurpose browser based solution. With an easy to maintain and well orgranized framework, the power of Selenium is enormous.
+For web/mobile testing, there are many tools out there which fit to differnt projects. But as an idea, you could have great luck with using a javascript terminal based testing framework which is lightweight, fast and easy to maintain. For a robust testing application which is also browser based in parallel, **Selenium** is the closest thing you can get to a perfect multipurpose browser based solution. With an easy to maintain and well orgranized framework, the power of Selenium is enormous.
 
 #Resources
 - [Selenium][selenium-web] 
