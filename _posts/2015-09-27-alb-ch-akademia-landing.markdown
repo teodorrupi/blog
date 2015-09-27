@@ -7,8 +7,13 @@ description: Akademia Albania first designs deployed
 # Proof of Concept
 After thinking about the Akademia Albania project, I decided to create first a proof of concept before spending lots of time on a project which depends on many factors and alot of work to reach its success. Check here about the first part [this][akd-web]. Today I can finally present the first designs of the page:
 
-![landingPage](http://teodorrupi.com/blog/assets/images/akademia-work-in-progress.png)
+![landingPage](http://teodorrupi.com/blog/assets/images/akademia-work-in-progress.png "Initial concept")
 
+
+After some styling, adding FontAwesome for icons and adding, most importantly, the content needed for the landing page, the result is as below:
+
+
+![landingPagedone](http://teodorrupi.com/blog/assets/images/akademia-finalized.png "Final landing page")
 
 Being a good or even perfect idea, does not necessarily mean that the project will have an audience fit for its vision or even bigger. And investing time and resources on a project which might fail due to no market insights its not a really good idea. Check other post on the idea itself and its implementation.
 
